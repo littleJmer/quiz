@@ -1,0 +1,7 @@
+#Wed Aug 21 09:09:14 PDT 2019
+base.1=/Sites/advancio/quiz/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+base.0=/Sites/advancio/quiz/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

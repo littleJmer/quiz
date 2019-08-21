@@ -1,0 +1,258 @@
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:189
+-keep class abi31_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:281
+-keep class abi31_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:186
+-keep class abi32_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:220
+-keep class abi32_0_0.expo.modules.appauth.AppAuthBrowserActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:267
+-keep class abi32_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:183
+-keep class abi33_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:253
+-keep class abi33_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:180
+-keep class abi34_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:239
+-keep class abi34_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:116
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:445
+-keep class android.support.v4.content.FileProvider { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:630
+-keep class com.facebook.CampaignTrackingReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:623
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:478
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:477
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:310
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:479
+-keep class com.facebook.ads.AudienceNetworkActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:315
+-keep class com.facebook.ads.InterstitialAdActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:492
+-keep class com.facebook.ads.internal.ipc.AdsMessengerService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:489
+-keep class com.facebook.ads.internal.ipc.AdsProcessPriorityService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:483
+-keep class com.facebook.ads.internal.ipc.RemoteANActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:618
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:176
+-keep class com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:534
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:496
+-keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:343
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:352
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:514
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:505
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:570
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:358
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:586
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:600
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:581
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:596
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:550
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:561
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:543
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:575
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:409
+-keep class com.theartofdev.edmodo.cropper.CropImageActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:463
+-keep class expo.modules.filesystem.FileSystemFileProvider { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:473
+-keep class expo.modules.location.services.LocationTaskService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:224
+-keep class expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:193
+-keep class host.exp.exponent.ExponentDevActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:321
+-keep class host.exp.exponent.ExponentIntentService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:125
+-keep class host.exp.exponent.LauncherActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:137
+-keep class host.exp.exponent.MainActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:116
+-keep class host.exp.exponent.MainApplication { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:298
+-keep class host.exp.exponent.chrometabs.ChromeTabsManagerActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:300
+-keep class host.exp.exponent.experience.ErrorActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:131
+-keep class host.exp.exponent.experience.ExperienceActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:158
+-keep class host.exp.exponent.experience.HomeActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:305
+-keep class host.exp.exponent.experience.InfoActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:165
+-keep class host.exp.exponent.experience.TvActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:390
+-keep class host.exp.exponent.fcm.ExpoFcmMessagingService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:403
+-keep class host.exp.exponent.fcm.FcmRegistrationIntentService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:370
+-keep class host.exp.exponent.gcm.ExponentGcmListenerService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:377
+-keep class host.exp.exponent.gcm.ExponentInstanceIDListenerService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:384
+-keep class host.exp.exponent.gcm.GcmRegistrationIntentService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:442
+-keep class host.exp.exponent.notifications.ScheduledNotificationReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:218
+-keep class host.exp.exponent.oauth.OAuthResultActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:201
+-keep class host.exp.exponent.oauth.OAuthWebViewActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:326
+-keep class host.exp.exponent.referrer.InstallReferrerReceiver { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:525
+-keep class io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:531
+-keep class io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:528
+-keep class io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:519
+-keep class net.openid.appauth.AuthorizationManagementActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:206
+-keep class net.openid.appauth.RedirectUriReceiverActivity { <init>(); }
+# Referenced at /Sites/advancio/quiz/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:454
+-keep class versioned.host.exp.exponent.modules.api.components.webview.RNCWebViewFileProvider { <init>(); }
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_bottom_navigation_item.xml:27
+-keep class android.support.design.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_bottom_sheet_dialog.xml:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/mtrl_layout_snackbar.xml:18
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/mtrl_layout_snackbar_include.xml:18
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fa69784bd422606e1c538a48aaba99bc/res/layout/design_layout_snackbar_include.xml:18
+-keep class android.support.design.widget.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Sites/advancio/quiz/android/app/src/main/res/layout/error_activity_new.xml:2
+-keep class android.support.v4.view.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/facebook-common-5.0.1.aar/afd05e60c18694ebd67e026f54475816/res/layout/com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/facebook-common-5.0.1.aar/afd05e60c18694ebd67e026f54475816/res/layout/com_facebook_device_auth_dialog_fragment.xml:45
+-keep class android.support.v7.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/facebook-common-5.0.1.aar/afd05e60c18694ebd67e026f54475816/res/layout/com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/facebook-common-5.0.1.aar/afd05e60c18694ebd67e026f54475816/res/layout/com_facebook_device_auth_dialog_fragment.xml:22
+-keep class android.support.v7.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout-v26/abc_screen_toolbar.xml:37
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/expoview-34.0.0.aar/d3c4c606e2c1b57a2c7b5d35383e9ca1/res/layout/oauth_webview_activity.xml:5
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/expoview-34.0.0.aar/d3c4c606e2c1b57a2c7b5d35383e9ca1/res/layout/info_activity.xml:14
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/4a394ab6c337282ec687ce82c6850957/res/layout/browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/7bede8837d1d68050001eadceacd605b/res/layout/amu_text_bubble.xml:7
+-keep class com.google.maps.android.ui.RotationLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/b3337ef2bd31a167774cdf4b66debe96/res/layout/crop_image_activity.xml:2
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Users/juane/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/b3337ef2bd31a167774cdf4b66debe96/res/layout/crop_image_view.xml:13
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /Sites/advancio/quiz/android/app/src/main/res/layout/error_fragment.xml:57
+# Referenced at /Sites/advancio/quiz/android/app/src/main/res/layout/error_console_fragment.xml:25
+-keep class host.exp.exponent.views.ExponentImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+

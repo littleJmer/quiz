@@ -1,0 +1,27 @@
+
+> Generate KEYSTORE 
+> Password: 123456
+> Place the quiz.keystore file under the android/app
+sudo keytool -genkey -v -keystore quiz.keystore -alias quiz-keystore -keyalg RSA -keysize 2048 -validity 10000
+
+
+> Edit the file android/gradle.properties
+MYAPP_UPLOAD_STORE_FILE=quiz.keystore
+MYAPP_UPLOAD_KEY_ALIAS=quiz-keystore
+MYAPP_UPLOAD_STORE_PASSWORD=123456
+MYAPP_UPLOAD_KEY_PASSWORD=123456
+
+
+> Adding signing config to your app's Gradle config android/app/build.gradle
+release {
+        if (project.hasProperty('MYAPP_UPLOAD_STORE_FILE')) {
+            storeFile file(MYAPP_UPLOAD_STORE_FILE)
+            storePassword MYAPP_UPLOAD_STORE_PASSWORD
+            keyAlias MYAPP_UPLOAD_KEY_ALIAS
+            keyPassword MYAPP_UPLOAD_KEY_PASSWORD
+        }
+    }
+
+
+>
+expo publish && cd android &&  ./gradlew bundleRelease && cd .. && open android/app/build/outputs/apk/release

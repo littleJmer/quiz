@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Sites/advancio/quiz/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/juane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/155b4959b8fc6a0703bf84b21c506ee8/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
